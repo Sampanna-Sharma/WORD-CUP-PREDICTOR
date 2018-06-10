@@ -1,0 +1,23 @@
+NAME,CLUB,LEAGUE,POSITION,RATING,PACE,SHOOTING,PASSING,DRIBBLING,DEFENDING,PHYSICAL
+Hugo Lloris,,,,68.8,69.07,57.37,60.61,62.94,61.06,64.76
+Steve Mandanda,,,,68.8,69.07,57.37,60.61,62.94,61.06,64.76
+Cédric Carrasso,,,,68.8,69.07,57.37,60.61,62.94,61.06,64.76
+Adil Rami,Valencia CF,La Liga BBVA,CB,84.0,84.0,85.0,70.0,83.0,51.0,83.0
+Laurent Koscielny,Arsenal,Barclays PL,CB,82.0,75.0,85.0,83.0,82.0,80.0,76.0
+Mathieu Debuchy,LOSC Lille,Ligue 1,RB,84.0,75.0,63.0,75.0,53.0,87.0,86.0
+Patrice Evra,Manchester United,Barclays PL,LB,85.0,75.0,84.0,85.0,80.0,73.0,76.0
+Gaël Clichy,Manchester City,Barclays PL,LB,84.0,89.0,80.0,80.0,84.0,50.0,53.0
+Anthony Réveillère,Olympique Lyonnais,Ligue 1,RB,81.0,69.0,50.0,62.0,58.0,81.0,83.0
+Philippe Mexès,Milan,Serie A,CB,81.0,82.0,86.0,77.0,81.0,55.0,59.0
+Samir Nasri,Manchester City,Barclays PL,LM,88.0,77.0,51.0,73.0,60.0,93.0,89.0
+Mathieu Valbuena,Olympique de Marseille,Ligue 1,LW,84.0,86.0,84.0,83.0,89.0,52.0,60.0
+Franck Ribéry,Bayern München,Bundesliga,LM,92.0,95.0,91.0,93.0,98.0,50.0,54.0
+Jérémy Ménez,Paris Saint-Germain,Ligue 1,ST,84.0,82.0,88.0,65.0,80.0,51.0,82.0
+Florent Malouda,Chelsea,Barclays PL,LW,84.0,82.0,87.0,83.0,83.0,61.0,56.0
+Yohan Cabaye,Newcastle United,Barclays PL,CAM,86.0,87.0,80.0,85.0,87.0,62.0,64.0
+Yann M'Vila,Stade Rennais,Ligue 1,CDM,83.0,80.0,85.0,78.0,82.0,59.0,85.0
+Alou Diarra,Olympique de Marseille,Ligue 1,CDM,83.0,65.0,67.0,54.0,47.0,92.0,80.0
+Marvin Martin,LOSC Lille,Ligue 1,CAM,80.0,80.0,75.0,50.0,75.0,60.0,81.0
+Hatem Ben Arfa,Newcastle United,Barclays PL,RM,84.0,84.0,87.0,66.0,84.0,57.0,78.0
+Blaise Matuidi,Paris Saint-Germain,Ligue 1,CM,81.0,84.0,80.0,75.0,87.0,56.0,67.0
+Karim Benzema,Real Madrid,La Liga BBVA,ST,90.0,71.0,60.0,82.0,70.0,98.0,92.0

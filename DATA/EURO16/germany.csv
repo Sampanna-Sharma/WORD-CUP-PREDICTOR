@@ -1,0 +1,23 @@
+NAME,CLUB,LEAGUE,POSITION,RATING,PACE,SHOOTING,PASSING,DRIBBLING,DEFENDING,PHYSICAL
+Manuel Neuer,,,,73.7,71.89,61.09,65.15,69.34,55.21,70.4
+Marc-André ter Stegen,,,,73.7,71.89,61.09,65.15,69.34,55.21,70.4
+Bernd Leno,,,,73.7,71.89,61.09,65.15,69.34,55.21,70.4
+Benedikt Höwedes,FC Schalke 04,Bundesliga,CB,83.0,68.0,59.0,70.0,69.0,85.0,80.0
+Jérôme Boateng,FC Bayern,Bundesliga,CB,90.0,75.0,91.0,89.0,83.0,66.0,82.0
+Jonathan Tah,Bayer 04,Bundesliga,CB,83.0,79.0,80.0,88.0,79.0,82.0,81.0
+Jonas Hector,1. FC Köln,Bundesliga,LB,84.0,81.0,81.0,89.0,86.0,66.0,78.0
+Joshua Kimmich,FC Bayern,Bundesliga,RB,74.0,67.0,71.0,76.0,73.0,69.0,71.0
+Shkodran Mustafi,Valencia CF,Liga BBVA,CB,83.0,83.0,74.0,83.0,86.0,40.0,57.0
+Mats Hummels,Bor. Dortmund,Bundesliga,CB,93.0,99.0,95.0,88.0,91.0,45.0,83.0
+Mesut Özil,Arsenal,Barclays PL,CAM,94.0,80.0,86.0,98.0,95.0,35.0,70.0
+Julian Draxler,VfL Wolfsburg,Bundesliga,LM,83.0,85.0,68.0,80.0,83.0,80.0,76.0
+Mario Götze,FC Bayern,Bundesliga,CAM,85.0,86.0,80.0,83.0,87.0,43.0,70.0
+Bastian Schweinsteiger,Manchester United,Barclays PL,CM,86.0,89.0,90.0,90.0,91.0,43.0,76.0
+Emre Can,Liverpool,Barclays PL,CDM,75.0,80.0,47.0,66.0,67.0,73.0,76.0
+Julian Weigl,Bor. Dortmund,Bundesliga,CDM,74.0,77.0,60.0,72.0,75.0,75.0,73.0
+Sami Khedira,Juventus,Serie A,CM,84.0,69.0,87.0,75.0,77.0,42.0,86.0
+Toni Kroos,Real Madrid,Liga BBVA,CM,91.0,93.0,95.0,91.0,94.0,42.0,83.0
+André Schürrle,VfL Wolfsburg,Bundesliga,ST,81.0,92.0,76.0,75.0,87.0,47.0,70.0
+Leroy Sané,FC Schalke 04,Bundesliga,RM,83.0,65.0,65.0,82.0,78.0,80.0,87.0
+Thomas Müller,FC Bayern,Bundesliga,CF,94.0,85.0,95.0,92.0,90.0,54.0,85.0
+Lukas Podolski,Galatasaray SK,Süper Lig,RM,87.0,95.0,85.0,82.0,92.0,51.0,74.0
