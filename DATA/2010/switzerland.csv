@@ -1,24 +1,23 @@
 NAME,CLUB,LEAGUE,POSITION,RATING,PACE,SHOOTING,PASSING,DRIBBLING,DEFENDING,PHYSICAL
+Diego Benaglio,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Marco Wölfli,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Johnny Leoni,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Stephan Lichtsteiner,Lazio,Serie A,RWB,80.0,78.0,82,70.0,80.0,57.0,79.0
+Ludovic Magnin,FC Zürich,Axpo Super League,LB,71.0,69.0,39,58.0,60.0,70.0,70.0
+Philippe Senderos,Fulham,Barclays Premier League,CB,74.0,65.0,66,73.0,75.0,68.0,70.0
+Steve von Bergen,A.C. Cesena,Serie A,CB,70.0,63.0,30,46.0,60.0,69.0,75.0
+Stéphane Grichting,AJ Auxerre,Ligue 1,CB,76.0,71.0,74,72.0,77.0,75.0,72.0
+Reto Ziegler,Sampdoria,Serie A,LB,81.0,82.0,81,77.0,83.0,55.0,58.0
+Mario Eggimann,Hannover 96,Bundesliga,CB,71.0,75.0,71,72.0,76.0,52.0,54.0
+Benjamin Huggel,FC Basel 1893,Axpo Super League,CDM,73.0,60.0,41,50.0,38.0,70.0,74.0
 Tranquillo Barnetta,Bayer 04 Leverkusen,Bundesliga,LM,83.0,83.0,87,85.0,87.0,72.0,74.0
 Gökhan Inler,Udinese,Serie A,CM,83.0,86.0,83,75.0,86.0,71.0,68.0
-Reto Ziegler,Sampdoria,Serie A,LB,81.0,82.0,81,77.0,83.0,55.0,58.0
-Stephan Lichtsteiner,Lazio,Serie A,RWB,80.0,78.0,82,70.0,80.0,57.0,79.0
-Eren Derdiyok,Bayer 04 Leverkusen,Bundesliga,ST,79.0,78.0,79,77.0,80.0,71.0,71.0
-Alexander Frei,FC Basel 1893,Axpo Super League,ST,77.0,74.0,34,52.0,37.0,75.0,81.0
-Stéphane Grichting,AJ Auxerre,Ligue 1,CB,76.0,71.0,74,72.0,77.0,75.0,72.0
 Valon Behrami,West Ham United,Barclays Premier League,RM,76.0,82.0,67,74.0,79.0,60.0,58.0
-Xherdan Shaqiri,FC Basel 1893,Axpo Super League,LM,74.0,76.0,79,55.0,65.0,56.0,77.0
-Albert Bunjaku,1. FC Nürnberg,Bundesliga,ST,74.0,72.0,67,71.0,58.0,74.0,77.0
-Philippe Senderos,Fulham,Barclays Premier League,CB,74.0,65.0,66,73.0,75.0,68.0,70.0
-Hakan Yakin,FC Luzern,Axpo Super League,CAM,74.0,79.0,74,65.0,74.0,59.0,74.0
-Pirmin Schwegler,Eintracht Frankfurt,Bundesliga,CM,74.0,77.0,70,75.0,80.0,59.0,62.0
 Marco Padalino,Sampdoria,Serie A,RM,73.0,81.0,71,75.0,75.0,68.0,70.0
-Blaise Nkufo,Seattle Sounders FC,Major League Soccer,ST,73.0,75.0,63,70.0,61.0,72.0,73.0
-Benjamin Huggel,FC Basel 1893,Axpo Super League,CDM,73.0,60.0,41,50.0,38.0,70.0,74.0
+Hakan Yakin,FC Luzern,Axpo Super League,CAM,74.0,79.0,74,65.0,74.0,59.0,74.0
 Gelson Fernandes,Chievo Verona,Serie A,CDM,71.0,77.0,69,68.0,72.0,54.0,58.0
-Mario Eggimann,Hannover 96,Bundesliga,CB,71.0,75.0,71,72.0,76.0,52.0,54.0
-Ludovic Magnin,FC Zürich,Axpo Super League,LB,71.0,69.0,39,58.0,60.0,70.0,70.0
-Steve von Bergen,A.C. Cesena,Serie A,CB,70.0,63.0,30,46.0,60.0,69.0,75.0
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Pirmin Schwegler,Eintracht Frankfurt,Bundesliga,CM,74.0,77.0,70,75.0,80.0,59.0,62.0
+Xherdan Shaqiri,FC Basel 1893,Axpo Super League,LM,74.0,76.0,79,55.0,65.0,56.0,77.0
+Alexander Frei,FC Basel 1893,Axpo Super League,ST,77.0,74.0,34,52.0,37.0,75.0,81.0
+Blaise Nkufo,Seattle Sounders FC,Major League Soccer,ST,73.0,75.0,63,70.0,61.0,72.0,73.0
+Albert Bunjaku,1. FC Nürnberg,Bundesliga,ST,74.0,72.0,67,71.0,58.0,74.0,77.0

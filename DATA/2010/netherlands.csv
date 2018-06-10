@@ -1,24 +1,23 @@
 NAME,CLUB,LEAGUE,POSITION,RATING,PACE,SHOOTING,PASSING,DRIBBLING,DEFENDING,PHYSICAL
-Wesley Sneijder,Inter,Serie A,CAM,89.0,84.0,88,93.0,90.0,69.0,57.0
-Arjen Robben,Bayern München,Bundesliga,RW,89.0,91.0,92,89.0,96.0,58.0,54.0
-Rafael van der Vaart,Tottenham Hotspur,Barclays Premier League,CM,88.0,77.0,91,92.0,90.0,60.0,61.0
-Robin van Persie,Arsenal,Barclays Premier League,CF,88.0,81.0,86,93.0,89.0,69.0,57.0
-Dirk Kuyt,Liverpool,Barclays Premier League,ST,84.0,73.0,80,85.0,69.0,84.0,84.0
-Nigel de Jong,Manchester City,Barclays Premier League,CDM,84.0,86.0,89,69.0,85.0,54.0,65.0
-John Heitinga,Everton,Barclays Premier League,CB,82.0,75.0,50,70.0,73.0,85.0,86.0
-Mark van Bommel,Bayern München,Bundesliga,CDM,82.0,80.0,82,71.0,79.0,64.0,87.0
+Maarten Stekelenburg,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Michel Vorm,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Sander Boschker,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
 Gregory van der Wiel,Ajax,Eredivisie,RWB,80.0,84.0,80,77.0,54.0,81.0,83.0
-Eljero Elia,Hamburger SV,Bundesliga,LM,80.0,80.0,67,72.0,69.0,80.0,75.0
+John Heitinga,Everton,Barclays Premier League,CB,82.0,75.0,50,70.0,73.0,85.0,86.0
 Joris Mathijsen,Hamburger SV,Bundesliga,CB,79.0,85.0,70,81.0,82.0,75.0,70.0
-Ibrahim Afellay,PSV,Eredivisie,CM,78.0,74.0,47,54.0,61.0,72.0,78.0
-Ryan Babel,Liverpool,Barclays Premier League,LF,77.0,80.0,73,66.0,85.0,68.0,70.0
-Demy de Zeeuw,Ajax,Eredivisie,CM,77.0,82.0,43,76.0,75.0,73.0,70.0
-Stijn Schaars,AZ Alkmaar,Eredivisie,CDM,75.0,67.0,75,82.0,80.0,59.0,59.0
+Giovanni van Bronckhorst,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
 Khalid Boulahrouz,VfB Stuttgart,Bundesliga,CB,74.0,81.0,61,66.0,76.0,55.0,61.0
 André Ooijer,Ajax,Eredivisie,CB,73.0,59.0,44,55.0,52.0,74.0,68.0
 Edson Braafheid,Bayern München,Bundesliga,LB,73.0,72.0,75,72.0,75.0,60.0,48.0
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Mark van Bommel,Bayern München,Bundesliga,CDM,82.0,80.0,82,71.0,79.0,64.0,87.0
+Nigel de Jong,Manchester City,Barclays Premier League,CDM,84.0,86.0,89,69.0,85.0,54.0,65.0
+Wesley Sneijder,Inter,Serie A,CAM,89.0,84.0,88,93.0,90.0,69.0,57.0
+Demy de Zeeuw,Ajax,Eredivisie,CM,77.0,82.0,43,76.0,75.0,73.0,70.0
+Stijn Schaars,AZ Alkmaar,Eredivisie,CDM,75.0,67.0,75,82.0,80.0,59.0,59.0
+Ibrahim Afellay,PSV,Eredivisie,CM,78.0,74.0,47,54.0,61.0,72.0,78.0
+Rafael van der Vaart,Tottenham Hotspur,Barclays Premier League,CM,88.0,77.0,91,92.0,90.0,60.0,61.0
+Dirk Kuyt,Liverpool,Barclays Premier League,ST,84.0,73.0,80,85.0,69.0,84.0,84.0
+Robin van Persie,Arsenal,Barclays Premier League,CF,88.0,81.0,86,93.0,89.0,69.0,57.0
+Arjen Robben,Bayern München,Bundesliga,RW,89.0,91.0,92,89.0,96.0,58.0,54.0
+Eljero Elia,Hamburger SV,Bundesliga,LM,80.0,80.0,67,72.0,69.0,80.0,75.0
+Ryan Babel,Liverpool,Barclays Premier League,LF,77.0,80.0,73,66.0,85.0,68.0,70.0

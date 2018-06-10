@@ -1,24 +1,23 @@
 NAME,CLUB,LEAGUE,POSITION,RATING,PACE,SHOOTING,PASSING,DRIBBLING,DEFENDING,PHYSICAL
-Franck Ribéry,Bayern München,Bundesliga,LM,87.0,88.0,90,75.0,86.0,60.0,74.0
+Hugo Lloris,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Steve Mandanda,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Cédric Carrasso,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
 Bacary Sagna,Arsenal,Barclays Premier League,RB,86.0,78.0,88,91.0,96.0,57.0,62.0
-Jérémy Toulalan,Olympique Lyonnais,Ligue 1,CB,85.0,72.0,86,89.0,87.0,57.0,58.0
-Nicolas Anelka,Chelsea,Barclays Premier League,ST,85.0,80.0,58,67.0,40.0,82.0,86.0
-André-Pierre Gignac,Olympique de Marseille,Ligue 1,ST,84.0,87.0,85,70.0,86.0,63.0,75.0
-Patrice Evra,Manchester United,Barclays Premier League,LWB,84.0,76.0,83,86.0,91.0,62.0,64.0
-Florent Malouda,Chelsea,Barclays Premier League,LM,84.0,70.0,43,62.0,49.0,78.0,86.0
-Thierry Henry,New York Red Bulls,Major League Soccer,ST,83.0,83.0,75,59.0,75.0,84.0,81.0
-Yoann Gourcuff,Olympique Lyonnais,Ligue 1,CAM,83.0,77.0,62,71.0,60.0,85.0,88.0
-Mathieu Valbuena,Olympique de Marseille,Ligue 1,CAM,82.0,87.0,80,67.0,85.0,56.0,58.0
-Gaël Clichy,Arsenal,Barclays Premier League,LWB,81.0,79.0,76,62.0,73.0,65.0,87.0
-Sébastien Squillaci,Arsenal,Barclays Premier League,CB,81.0,69.0,48,66.0,62.0,77.0,84.0
+Éric Abidal,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Anthony Réveillère,Olympique Lyonnais,Ligue 1,RB,79.0,75.0,50,62.0,58.0,75.0,80.0
 William Gallas,Tottenham Hotspur,Barclays Premier League,CB,81.0,85.0,76,75.0,85.0,59.0,58.0
 Marc Planus,Girondins de Bordeaux,Ligue 1,CB,81.0,91.0,80,72.0,82.0,56.0,77.0
+Patrice Evra,Manchester United,Barclays Premier League,LWB,84.0,76.0,83,86.0,91.0,62.0,64.0
+Sébastien Squillaci,Arsenal,Barclays Premier League,CB,81.0,69.0,48,66.0,62.0,77.0,84.0
+Gaël Clichy,Arsenal,Barclays Premier League,LWB,81.0,79.0,76,62.0,73.0,65.0,87.0
+Franck Ribéry,Bayern München,Bundesliga,LM,87.0,88.0,90,75.0,86.0,60.0,74.0
+Yoann Gourcuff,Olympique Lyonnais,Ligue 1,CAM,83.0,77.0,62,71.0,60.0,85.0,88.0
+Jérémy Toulalan,Olympique Lyonnais,Ligue 1,CB,85.0,72.0,86,89.0,87.0,57.0,58.0
+Florent Malouda,Chelsea,Barclays Premier League,LM,84.0,70.0,43,62.0,49.0,78.0,86.0
 Alou Diarra,Girondins de Bordeaux,Ligue 1,CDM,80.0,88.0,79,52.0,70.0,61.0,77.0
-Sidney Govou,Panathinaikos FC,Hellas Liga,RW,80.0,72.0,73,80.0,78.0,76.0,68.0
-Djibril Cissé,Panathinaikos FC,Hellas Liga,ST,80.0,83.0,76,72.0,85.0,65.0,74.0
 Abou Diaby,Arsenal,Barclays Premier League,CM,79.0,83.0,74,78.0,83.0,52.0,59.0
-Anthony Réveillère,Olympique Lyonnais,Ligue 1,RB,79.0,75.0,50,62.0,58.0,75.0,80.0
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
-,,,,67.97,70.54,56,59.57,61.85,61.22,63.34
+Mathieu Valbuena,Olympique de Marseille,Ligue 1,CAM,82.0,87.0,80,67.0,85.0,56.0,58.0
+Djibril Cissé,Panathinaikos FC,Hellas Liga,ST,80.0,83.0,76,72.0,85.0,65.0,74.0
+Sidney Govou,Panathinaikos FC,Hellas Liga,RW,80.0,72.0,73,80.0,78.0,76.0,68.0
+André-Pierre Gignac,Olympique de Marseille,Ligue 1,ST,84.0,87.0,85,70.0,86.0,63.0,75.0
+Thierry Henry,New York Red Bulls,Major League Soccer,ST,83.0,83.0,75,59.0,75.0,84.0,81.0
