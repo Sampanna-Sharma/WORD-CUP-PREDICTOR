@@ -1,0 +1,23 @@
+NAME,CLUB,LEAGUE,POSITION,RATING,PACE,SHOOTING,PASSING,DRIBBLING,DEFENDING,PHYSICAL
+David de Gea,,,,71.77,71.44,59.85,64.72,67.42,59.436,66.17
+Pepe Reina,,,,71.77,71.44,59.85,64.72,67.42,59.436,66.17
+Raúl Albiol,UEFA,World Cup,CB,80.0,65.0,72.0,77.0,75.0,80.0,76.0
+Gerard Piqué,,,,71.77,71.44,59.85,64.72,67.42,59.436,66.17
+Juanfran,Atlético de Madrid,Liga BBVA,RB,85.0,78.0,60.0,58.0,65.0,85.0,88.0
+Sergio Ramos,Real Madrid,Liga BBVA,CB,93.0,86.0,68.0,81.0,79.0,92.0,94.0
+Jordi Alba,FC Barcelona,Liga BBVA,LB,83.0,73.0,70.0,77.0,74.0,84.0,84.0
+César Azpilicueta,,,,71.77,71.44,59.85,64.72,67.42,59.436,66.17
+Javi Martínez,,,,71.77,71.44,59.85,64.72,67.42,59.436,66.17
+Andrés Iniesta,,,,71.77,71.44,59.85,64.72,67.42,59.436,66.17
+Xavi,FC Barcelona,Liga BBVA,CM,95.0,72.0,80.0,97.0,93.0,74.0,60.0
+Cesc Fàbregas,Chelsea,Barclays PL,CDM,89.0,86.0,93.0,90.0,89.0,58.0,82.0
+Juan Mata,Manchester United,Barclays PL,CAM,88.0,83.0,91.0,82.0,88.0,59.0,74.0
+Xabi Alonso,Bayern München,Bundesliga,CDM,85.0,89.0,85.0,83.0,84.0,59.0,69.0
+Sergio Busquets,UEFA,World Cup,CDM,85.0,85.0,83.0,86.0,80.0,90.0,86.0
+Koke,Atlético de Madrid,Liga BBVA,RM,87.0,83.0,74.0,86.0,86.0,90.0,86.0
+Santi Cazorla,Arsenal,Barclays PL,LM,86.0,92.0,88.0,82.0,87.0,48.0,62.0
+David Silva,Manchester City,Barclays PL,LM,93.0,85.0,86.0,92.0,94.0,52.0,67.0
+David Villa,Atlético de Madrid,Liga BBVA,LW,84.0,91.0,71.0,79.0,86.0,42.0,57.0
+Fernando Torres,Milan,Serie A,ST,82.0,87.0,75.0,74.0,85.0,53.0,63.0
+Pedro,FC Barcelona,Liga BBVA,LW,87.0,83.0,83.0,70.0,86.0,54.0,84.0
+Diego Costa,Atlético de Madrid,Liga BBVA,ST,90.0,80.0,80.0,92.0,91.0,75.0,70.0
